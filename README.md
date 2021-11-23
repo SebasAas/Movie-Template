@@ -1,10 +1,9 @@
 ## Netflix Clone
 
 Preview 
+![Preview](src/assets/videos/preview.gif)
 
-![system](https://user-images.githubusercontent.com/24654062/88874666-fb357a00-d1f5-11ea-9818-02e83e344069.gif)
-
-Live Preview [Netflix Clone](src/assets/videos/preview.gif)
+Live Preview [Netflix Clone](https://movie-app-f10d3.web.app)
 
 ### Stack
 
