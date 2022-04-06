@@ -3,8 +3,6 @@
 Preview 
 ![Preview](src/assets/videos/preview.gif)
 
-Live Preview [Netflix Clone](https://movie-app-f10d3.web.app)
-
 ### Stack
 
 - React
